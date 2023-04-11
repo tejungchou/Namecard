@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Namecard/static/css/main.f92960d9.css",
+    "main.js": "/Namecard/static/js/main.853ed785.js",
+    "static/js/787.86b5e812.chunk.js": "/Namecard/static/js/787.86b5e812.chunk.js",
+    "index.html": "/Namecard/index.html",
+    "main.f92960d9.css.map": "/Namecard/static/css/main.f92960d9.css.map",
+    "main.853ed785.js.map": "/Namecard/static/js/main.853ed785.js.map",
+    "787.86b5e812.chunk.js.map": "/Namecard/static/js/787.86b5e812.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f92960d9.css",
+    "static/js/main.853ed785.js"
+  ]
+}
