@@ -1,2 +1,2 @@
 ### My personal name card
-> [Link for the name card](https://tejungchou.github.io/Namecard/)
+> [Click me to see the name card!](https://tejungchou.github.io/Namecard/)
