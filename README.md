@@ -1,2 +1,2 @@
-### Namecard
->  Demo: [Namecard](https://tejungchou.github.io/Namecard/)
+### My personal name card
+> Link for the name card: [Namecard](https://tejungchou.github.io/Namecard/)
